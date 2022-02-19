@@ -1,7 +1,7 @@
-# 100daysUnreal
-instagram: [olivia_100days](https://www.instagram.com/olivia_100days/)
+### 100daysUnreal
+**instagram: [olivia_100days](https://www.instagram.com/olivia_100days/)**
 
-### Blueprint Practice Part I
+## Blueprint Practice Part I
 
 **Day 1-4, 1.18-1.21** 
 
@@ -12,7 +12,7 @@ instagram: [olivia_100days](https://www.instagram.com/olivia_100days/)
 
 **Day 5, 1.22**
 
-02 Blueprints and Gameplay for Game Designers
+**02 Blueprints and Gameplay for Game Designers**
 
 - fps module, blueprint inttro, variables
 
