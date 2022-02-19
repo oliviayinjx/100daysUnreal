@@ -1,4 +1,4 @@
-# 100daysUnreal
+# 100 Days of Unreal Interaction with Blueprint
 **instagram: [olivia_100days](https://www.instagram.com/olivia_100days/)**
  
  
@@ -55,9 +55,7 @@ Bowling balls
 
 **Day 15, 2.1**
 
-Spider man web swing 
-
-[https://youtu.be/8oc4ZCNJ9wM](https://youtu.be/8oc4ZCNJ9wM)
+[Spider man web swing](https://youtu.be/8oc4ZCNJ9wM)
 
 **Day 16, 2.2**
 
