@@ -61,21 +61,15 @@ Spider man web swing
 
 **Day 16, 2.2**
 
-Sidewall
-
-[https://youtu.be/1ah_thU90-0](https://youtu.be/1ah_thU90-0)
+[Sidewall run](https://youtu.be/1ah_thU90-0)
 
 **Day 17, 2.3**
 
-Hex-a-gone
-
-[https://youtu.be/ANWzAitL0Jg](https://youtu.be/ANWzAitL0Jg)
+[Hex-a-gone](https://youtu.be/ANWzAitL0Jg)
 
 **Day 18, 2.4**
 
-Doordash
-
-[https://youtu.be/j6uQ9I6uCtg](https://youtu.be/j6uQ9I6uCtg)
+[Doordash](https://youtu.be/j6uQ9I6uCtg)
 
 **Day 19, 2.5**
 
