@@ -1,6 +1,6 @@
 #include <WiFi.h> //for esp library
+//#include <WiFiNINA.h> //for arduino library
 #include <WiFiUdp.h>
-#include <wifiInfo>
 #include <OSCMessage.h>
 
 WiFiUDP Udp;                                // A UDP instance to let us send and receive packets over UDP
