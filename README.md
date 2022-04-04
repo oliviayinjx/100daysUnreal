@@ -119,3 +119,14 @@ Timeline
 **Day 30, 2.16**
 
 [Zelda Magnesis Rune](https://youtu.be/-3skkNbervM)
+**Day 31, 2.17**
+
+[Runes Select HUD](https://youtu.be/r0XqoTAtpLU)
+
+**Day 32, 2.18**
+
+[Zelda Stasis Rune](https://youtu.be/R5fIHkQCm8U)
+
+**Day 33, 2.19**
+
+[Cryonis](https://youtu.be/JOA_t1CWuLE)
