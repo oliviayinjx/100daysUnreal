@@ -134,7 +134,7 @@ Timeline
 
 
 ## Blueprint Practice Part II
-###Max Week （2.27 - 3.5）
+### Max Week （2.27 - 3.5）
 **Day 41, 2.27**
 
 max single toogle
