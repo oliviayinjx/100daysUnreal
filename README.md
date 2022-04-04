@@ -134,31 +134,4 @@ Timeline
 
 
 ## Blueprint Practice Part II
-### Max Week （2.27 - 3.5）
-**Day 41, 2.27**
-
-max single toogle
-
-**Day 42, 2.28**
-
-receive data from unreal to max
-
-**Day 43, 3.1**
-
-voice to change height
-
-**Day 44, 3.2**
-
-keep on amusement part
-
-**Day 45, 3.3**
-
-play with new max feature
-
-**Day 46, 3.4**
-
-play with another new max feature
-
-**Day 47, 3.5**
-
-play with another new max feature
+### Max Week （2.23 - 3.5）
