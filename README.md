@@ -119,6 +119,7 @@ Timeline
 **Day 30, 2.16**
 
 [Zelda Magnesis Rune](https://youtu.be/-3skkNbervM)
+
 **Day 31, 2.17**
 
 [Runes Select HUD](https://youtu.be/r0XqoTAtpLU)
@@ -130,3 +131,34 @@ Timeline
 **Day 33, 2.19**
 
 [Cryonis](https://youtu.be/JOA_t1CWuLE)
+
+
+## Blueprint Practice Part II
+###Max Week （2.27 - 3.5）
+**Day 41, 2.27**
+
+max single toogle
+
+**Day 42, 2.28**
+
+receive data from unreal to max
+
+**Day 43, 3.1**
+
+voice to change height
+
+**Day 44, 3.2**
+
+keep on amusement part
+
+**Day 45, 3.3**
+
+play with new max feature
+
+**Day 46, 3.4**
+
+play with another new max feature
+
+**Day 47, 3.5**
+
+play with another new max feature
